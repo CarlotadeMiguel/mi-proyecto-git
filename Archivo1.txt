@@ -1,1 +1,1 @@
-Este archivo se añadirá junto al 2 con git add .
+voy a generar otro conflicto para el ejercicio 16
