@@ -1,1 +1,1 @@
-Este archivo se añadirá junto al 2 con git add .
+Cambio el tecto para generar un conflicto con la rama nueva-caracteristica
