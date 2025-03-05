@@ -1,1 +1,8 @@
-`*.log`, `*.tmp`
+# Ignorar todos los archivos con extensión .log
+*.log
+
+# Ignorar todos los archivos con extensión .tmp
+*.tmp
+
+# Ignorar el Archivo3.txt
+Archivo3.txt
