@@ -1,1 +1,1 @@
-Generar conflicto con la rama conflicto-test
+Modificación de una rama local que será borrada
