@@ -1,1 +1,3 @@
-Creo un nuevo commit para volver al anterior
+Cambio el tecto para generar un conflicto con la rama nueva-caracteristica
+voy a generar un conflicto.
+Acepto los cambios y resuelvo el conflicto
